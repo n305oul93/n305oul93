@@ -8,10 +8,18 @@ I'm Desmond but most call me Dez, and I am a full stack software developer.
 
 Want to see more of my work? [Check out my portfolio.](http://djpringle.me)
 
-📌 Pinned Repositories
-
----
+## 📌 Pinned Repositories
 
 <a href="https://https://github.com/n305oul93/react-portfolio">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=n305oul93&repo=react-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+## 🈹 GitHub Stats
+
+<a href="https://github.com/n305oul93">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n305oul93&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/n305oul93">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=n305oul93&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dez's GitHub Stats" />
 </a>

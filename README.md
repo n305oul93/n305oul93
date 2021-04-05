@@ -30,11 +30,12 @@ Want to see more of my work? [Check out my portfolio.](http://djpringle.me)
 
 ## 💼 SKills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1CA2F1)
-
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=1CA2F1)
-![](https://img.shields.io/badge/Code-Ruby-on-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Code-Ruby on Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=1CA2F1)
 
 <details>
 <summary>More Skills</summary>

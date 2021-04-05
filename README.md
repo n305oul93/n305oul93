@@ -39,8 +39,8 @@ Want to see more of my work? [Check out my portfolio.](http://djpringle.me)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=1CA2F1)
 
-<details>
-<summary>More Skills</summary>
+<!-- <details> -->
+<!-- <summary>More Skills</summary> -->
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=1CA2F1)
@@ -58,4 +58,4 @@ Want to see more of my work? [Check out my portfolio.](http://djpringle.me)
 ![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=Apache&logoColor=white&color=1CA2F1)
 ![PowerShell Gallery](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1?style=flat&logo=linux&logoColor=white&color=1CA2F1)
 
-</details>
+<!-- </details> -->

@@ -35,15 +35,27 @@ Want to see more of my work? [Check out my portfolio.](http://djpringle.me)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=1CA2F1)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=ruby_on_rails&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=1CA2F1)
 
 <details>
 <summary>More Skills</summary>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=1CA2F1)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=1CA2F1)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=1CA2F1)
+
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=1CA2F1)
+
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=NGINX&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=Apache&logoColor=white&color=1CA2F1)
 ![PowerShell Gallery](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1?style=flat&logo=linux&logoColor=white&color=1CA2F1)
 
 </details>

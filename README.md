@@ -15,17 +15,17 @@ Want to see more of my work? [Check out my portfolio.](http://djpringle.me)
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api/pin/?username=n305oul93&repo=react-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
 <a href="https://github.com/n305oul93/sportsfan-cafe-react-native">
-<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=n305oul93&repo=sportsfan-cafe-react-native&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api/pin/?username=n305oul93&repo=sportsfan-cafe-react-native&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## 🈹 GitHub Stats
 
 <a href="https://github.com/n305oul93">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n305oul93&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api/top-langs/?username=n305oul93&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/n305oul93">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=n305oul93&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dez's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api?username=n305oul93&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dez's GitHub Stats" />
 </a>
 
 ## 💼 SKills

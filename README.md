@@ -17,11 +17,14 @@ Want to see more of my work? [Check out my portfolio.](http://djpringle.me)
 <a href="https://github.com/n305oul93/sportsfan-cafe-react-native">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api/pin/?username=n305oul93&repo=sportsfan-cafe-react-native&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/n305oul93/https://github.com/n305oul93/sportsfan-cafe-react">
-<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api/pin/?username=n305oul93&repo=https://github.com/n305oul93/sportsfan-cafe-react&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/n305oul93/sportsfan-cafe-react">
+<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api/pin/?username=n305oul93&repo=sportsfan-cafe-react&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/n305oul93/https://github.com/n305oul93/indyfi-react">
-<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api/pin/?username=n305oul93&repo=https://github.com/n305oul93/indyfi-react&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/n305oul93/indyfi-react">
+<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api/pin/?username=n305oul93&repo=indyfi-react&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/our-mintbean-team/texteditor-mintbean">
+<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api/pin/?username=n305oul93&repo=https://github.com/our-mintbean-team/texteditor-mintbean&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## 🈹 GitHub Stats

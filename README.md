@@ -34,7 +34,7 @@ Want to see more of my work? [Check out my portfolio.](http://djpringle.me)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats-n305oul93.vercel.app//api?username=n305oul93&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dez's GitHub Stats" />
 </a>
 
-## 💼 SKills
+## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1CA2F1)

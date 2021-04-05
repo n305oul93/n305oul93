@@ -1,8 +1,8 @@
 [![Dez's Github Banner](./assets/images/ball-15x5.jpg)](http://djpringle.me)
 
 [![Visits Badge](https://badges.pufler.dev/visits/n305oul93/n305oul93)](http://djpringle.me)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dez1914)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dj-pringle/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1da1f2)](https://twitter.com/dez1914)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/dj-pringle/)
 
 Hello 👋  
 I'm Desmond but most call me Dez, and I am a full stack software developer.
@@ -30,17 +30,19 @@ Want to see more of my work? [Check out my portfolio.](http://djpringle.me)
 
 ## 💼 SKills
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1CA2F1)
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Code-Ruby-on-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=1CA2F1)
 
 <details>
 <summary>More Skills</summary>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-![PowerShell Gallery](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=1CA2F1)
+![PowerShell Gallery](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1?style=flat&logo=linux&logoColor=white&color=1CA2F1)
 
 </details>
